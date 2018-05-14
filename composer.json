@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=7.0.0",
+        "klein/klein": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
